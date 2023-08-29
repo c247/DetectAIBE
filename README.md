@@ -6,6 +6,7 @@
 - Next.js, Node.js - Server/Client - Interacts with AWS API
 ### AWS SageMaker Model Creation, Data Analysis and HyperParameter Tuning
 - See MedicalAI.ipynb for Model configuration
+- Training Data: Kaggle chest-xray dataset
 - I utilized SageMakers image classification model and used transfer learning for my model.
 - Used matplotlib, numpy, seaborn and scikit-learn to visualize data, generate confussion matrix etc.
 
