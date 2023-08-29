@@ -9,5 +9,6 @@
 
 ### Digital Ocean Demo
 - http://165.22.236.78/
+- Note: AWS instance not currently running
 
 ![alt text](./githubdemo.JPG)
