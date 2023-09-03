@@ -13,6 +13,6 @@
 
 ### Digital Ocean Demo
 - http://165.22.236.78/
-- Note: image classification endpoint stopped
+- Note: image classification endpoint instance on AWS can be spun up on request
 
 ![alt text](./githubdemo.JPG)
