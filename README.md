@@ -1,5 +1,5 @@
 # Medical AI Pneumonia Detector
-
+### Check out https://github.com/c247/DetectAIBE/blob/main/MedicalAI.ipynb
 ### Stack
 - AWS (SageMaker, API Gateway, Lambda, S3, Cloudwatch) - ML API endpoint
 - MongoDB - User login data
